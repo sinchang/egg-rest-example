@@ -3,10 +3,10 @@
 [![build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
 
-[travis-image]: https://img.shields.io/travis/sinchang/egg-rest-exmaple.svg?style=flat-square
-[travis-url]: https://travis-ci.org/sinchang/egg-rest-exmaple
-[codecov-image]: https://codecov.io/github/sinchang/egg-rest-exmaple/coverage.svg?branch=master
-[codecov-url]: https://codecov.io/github/sinchang/egg-rest-exmaple?branch=master
+[travis-image]: https://img.shields.io/travis/sinchang/egg-rest-example.svg?style=flat-square
+[travis-url]: https://travis-ci.org/sinchang/egg-rest-example
+[codecov-image]: https://codecov.io/github/sinchang/egg-rest-example/coverage.svg?branch=master
+[codecov-url]: https://codecov.io/github/sinchang/egg-rest-example?branch=master
 
 ## QuickStart
 
