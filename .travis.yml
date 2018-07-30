@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - '8'
 before_install:
-  - mysql -e 'CREATE DATABASE IF NOT EXISTS realworld_test;'
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS egg_rest_test;'
 install:
   - npm i npminstall && npminstall
 script:
