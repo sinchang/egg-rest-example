@@ -24,7 +24,7 @@
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
-    "node": ">=8.11.1"
+    "node": ">=8.0.0"
   },
   "scripts": {
     "start": "egg-scripts start --title=egg-server-api-demo --cluster 1",
