@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "name": "egg-rest-api",
-  "builds": [{ "src": "**/*.js", "use": "@now/node" }],
-  "alias": ["egg-rest-api"]
-}
